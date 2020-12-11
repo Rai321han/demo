@@ -4,6 +4,5 @@ This is a simple readme file
 
 ##TEXT
 
-JUST SOME TEXT
+This is bound to cause troubles
 
-I hope this isn't much of a problem
